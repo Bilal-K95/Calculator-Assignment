@@ -1,0 +1,22 @@
+body
+{
+    background-color: blueviolet;
+}
+#screen
+{
+    margin-top:10%;
+    margin-left: 30%;
+    height: 100px;
+    width: 400px;
+}
+#btnFirstrow
+{
+    padding-left: 332px;
+    
+}
+button
+{
+    width: 131px;
+    background-color: blue;
+    color: white;
+}
